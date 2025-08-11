@@ -69,6 +69,6 @@ Space Complexity:
 
 We only use a few variables (res, increment, r, i), no extra data structures.
 
-The result string res is required for output and is O(n) in size, but we usually exclude output storage in space complexity.
+The result string res is required for output and is O(n) in size..
 
-Therefore, O(1) auxiliary space.
+Therefore, O(n)
